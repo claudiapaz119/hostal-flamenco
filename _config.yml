@@ -19,7 +19,7 @@ locale                   : "es-ES"
 title                    : "Cabañas Flamenco"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nombre de la dueña"
+name                     : "Mirna Angulo"
 description              : "Aquí va una pequeña descripción."
 url                      : "https://hostalflamenco.cl/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
