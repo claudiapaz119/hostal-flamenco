@@ -2,6 +2,7 @@
 title: "Galería"
 excerpt: "Descripción Galería"
 permalink: /galeria/
+toc: true
 ---
 
 <figure class="half">
