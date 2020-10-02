@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mirna Angulo"
 description              : "Aquí va una pequeña descripción."
-url                      : "https://claudiapaz119.github.io"
-baseurl                  : "/hostal-flamenco"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://hostalflamenco.cl/"
+baseurl                  : #
+repository               : "claudiapaz119/hostal-flamenco"
 teaser                   : "/assets/images/ejemplo_teaser.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
