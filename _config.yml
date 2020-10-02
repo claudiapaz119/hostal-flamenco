@@ -280,6 +280,15 @@ defaults:
       share: true
       related: true
 
+  # _cabanas
+  - scope:
+      path: ""
+      type: cabanas
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
 collections:
   cabanas:
