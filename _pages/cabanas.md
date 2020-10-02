@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: collection
 title: "Cabañas"
 excerpt: "Descripción Cabañas"
 permalink: /cabanas/
