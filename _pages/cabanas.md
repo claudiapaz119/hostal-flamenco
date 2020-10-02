@@ -2,7 +2,7 @@
 layout: splash
 title: "Cabañas"
 excerpt: "Descripción Cabañas"
-permalink: /cabanas/
+permalink: /cabana/
 feature_row:
 - image_path: /assets/images/flamenco-chileno.jpg
     alt: "Titulo Cabaña Chica"
