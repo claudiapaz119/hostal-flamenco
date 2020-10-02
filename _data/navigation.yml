@@ -4,5 +4,7 @@ main:
     url: /
   - title: "Sobre Nosotros"
     url: /sobre-nosotros/
+  -title: "Cabañas"
+    url: /cabanas/
   - title: "Galería"
     url: /galeria/
