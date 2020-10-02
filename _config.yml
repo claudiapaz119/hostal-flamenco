@@ -279,3 +279,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+collections:
+  cabanas:
+    output: true
+    permalink: /:collection/:path/
